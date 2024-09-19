@@ -1,4 +1,4 @@
 #支持私库
---platform=linux/arm64 nacos/nacos-server:2.3.0
+--platform=linux/arm64 nacos/nacos-server:v2.3.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
